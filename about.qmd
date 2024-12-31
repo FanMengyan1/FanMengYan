@@ -1,0 +1,63 @@
+---
+title: ""
+---
+
+::: {.content-block .about-section}
+# Hi, I'm  Fan Mengyan!
+
+![](images/profile.jpg)
+
+:::
+
+::: {.content-block}
+## My background
+Actor, director, young dancer
+Graduated from Communication University of China
+Currently studying for a master's degree at the School of Business of Belarusian State University
+
+
+- Member of the Chinese Dancers Association
+- National psychological counselor of the Chinese Academy of Sciences
+- Judge of the Beijing Division of the Overseas Taoli Cup
+- Judge of the children's column of China Education Television
+- Judge of the children's column of Beijing Radio and Television
+- Special judge of the Jinfan Children's Art National Exhibition
+- Founder and CEO of many art brands in Beijing and Hebei
+- Director and examiner of the China Children's Culture and Art Promotion Association
+- Certified teacher of ballet level 1 to 4 of Beijing Dance Academy
+- Promoter of China's new culture = Language examiner and senior teacher of the Youth Art Education Association
+- Examiner and senior teacher of language grading materials of the Ministry of Culture and Tourism
+- Certified teacher of the Children's Drama Form Performance Grading Center of the China Academy of Art and Technology
+- Certified teacher of the Model Committee of the China Social Art Association of CCA
+- Senior lecturer of Chinese dance grading materials of the Ministry of Culture and Tourism
+- Senior lecturer of Chinese dance grading materials of the China National Opera and Dance Theater
+- Senior teacher of Chinese five grading grades of 1 to 10 of the Beijing Dance Academy
+:::
+
+::: {.content-block}
+## Experience
+While studying dance performance at the Affiliated Middle School of the Art School, he founded the Student Union of the Technical Secondary School and served as the chairman of the Student Union for four consecutive terms. While studying film and television performance at university, he signed a contract with Hebei Radio and Television Station and founded several art brands in Beijing.
+:::
+
+::: {.content-block}
+## Course objectives
+Knowledge and skills improvement
+- Proficient in the application of R language in handling a wide range of problems and tasks, including but not limited to data collection, organization, analysis and visualization, reduce dependence on Google search, and improve the ability to solve problems independently.
+- In-depth understanding of the application principles and methods of information technology in business environments, such as database management, commercial applications of data analysis software, etc.
+Data Analysis Optimization
+- Learn to use standardized, efficient and organized methods for data analysis, be able to independently complete the entire process from data acquisition to result interpretation, and improve the quality and efficiency of data analysis.
+:::
+
+::: {.content-block}
+## Frontier Technology Expansion
+- Be familiar with the basic concepts, algorithms and application scenarios of predictive modeling and machine learning, and understand its potential application value in the fields of business and environmental health science, such as using machine learning algorithms to predict and classify environmental data to support decision-making.
+- Pay attention to the latest developments in information technology in the fields of business and environmental health, cultivate sensitivity and learning ability for new technologies, and prepare for future research and work.
+:::
+
+::: {.content-block}
+## Hobbies and Interesting Things
+- I go to the gym and swim every day, and I love sports very much
+- I like playing golf very much, and I will ask the coach to practice with me regularly
+- I like to do interesting things, even if there are some challenges, as long as I am interested in it.
+:::
+

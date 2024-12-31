@@ -1,0 +1,31 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      
+  output: true    
+  warning: false  
+  error: false    
+jupyter: python3
+---
+
+
+# practice1
+{{< embed "labs/Practice/Fan Mengyan.ipynb" echo=true >}}
+
+# practice3
+{{< embed "labs/Practice/practical 3.ipynb" echo=true >}}
+
+# practice4
+{{< embed "labs/Practice/practice 4.ipynb" echo=true >}}
+
+# FanMengYan.Collecting and analysing data from experiments
+{{< embed "labs/Practice/FanMengYan.Collecting and analysing data from experiments.ipynb" echo=true >}}
